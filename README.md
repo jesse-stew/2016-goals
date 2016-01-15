@@ -5,7 +5,7 @@
 	- [ ] Look back through notes and blog about what I've learned so far
 	- [ ] Complete exercises in Eloquent JavaScript 
 	- [ ] Ask for help and learn about things that I don't know that I don't know
-- [ ] Start keeping a "Today I Learned" journal at work
+- [X] Start keeping a "Today I Learned" journal at work
 - [ ] Brush up on Sass and venture into advanced Sass
 	- [ ] Look back through notes and old projects
 	- [ ] Build things in CodePen
@@ -20,3 +20,4 @@
 	- [ ] 30 days illustration challenge?
 - [ ] Get better at lettering
 	- [ ] Daily practice
+- [ ] Blog once a week
